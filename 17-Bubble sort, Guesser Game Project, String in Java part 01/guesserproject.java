@@ -1,5 +1,5 @@
 import java.util.Scanner;
-
+//1. Activity of guesser
 class Guesser {
 	//has part
 	int guessNum;
@@ -14,12 +14,13 @@ class Guesser {
 		return guessNum;
 	}
 }
-
+//2. Activity of Player
 class Player{
 	//has part
 	int guessNum;
 	//do part
 	int guessNum(){
+		//asking player to guess number and store in varibale
 		System.out.println("Player guess a number:");
 		Scanner p=new Scanner(System.in);
 		guessNum=p.nextInt();
@@ -27,6 +28,7 @@ class Player{
 	}
 }
 
+//3. Activity of Umpire
 class Umpire{
 	//has part
 	int numFromGuesser;
@@ -35,12 +37,12 @@ class Umpire{
 	int numFromPlayer3;
 	//do part
 	void collectNumFromGuesser(){
-//		invoke values from guesser
+//		invoke values from guesser class by creating object
 		Guesser g=new Guesser();
 		numFromGuesser=g.guessNum();
 	 }
 	
-//	invoke values from Player
+//	invoke values from Player class
 	void collectNumFromPlayers() {
 		Player p1=new Player();
 		numFromPlayer1=p1.guessNum();
@@ -52,6 +54,7 @@ class Umpire{
 		numFromPlayer3=p3.guessNum();
 	  }
 	
+//Umpire compares Guesser vlaue with Players value
 	void compare() {
 		if(numFromGuesser==numFromPlayer1) {
 			if(numFromGuesser==numFromPlayer2 && numFromGuesser==numFromPlayer3) {
@@ -91,6 +94,7 @@ public class guesserproject {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
    Umpire u=new Umpire();
+   //calling methods by umpire
    u.collectNumFromGuesser();
    u.collectNumFromPlayers();
    u.compare();
