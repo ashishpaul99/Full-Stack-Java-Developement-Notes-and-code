@@ -17,7 +17,7 @@ public class string4 {
 //		
 //	output: java.lang.StringIndexOutOfBoundsException:
 		
-//9.2 Length (method)
+//9.2 Public int length()
 	
 //		String s="sachin";
 //		System.out.println(s.length()); //here length is method
@@ -28,7 +28,7 @@ public class string4 {
 //		System.out.println(arr.length); //here length Property is variable of a calss
 //output:3
 		
-//9.3 Equals method
+//9.3 Public boolean equals(Object o) method
 //		String s="java";
 //		System.out.println(s.equals("java"));
 //		output: true
@@ -39,7 +39,7 @@ public class string4 {
 //		System.out.println(s1.equals(s2));
 //	output: true
 		
-//	9.4 equalsIgnoreCase() method
+//	9.4 Public boolean equalsIgnoreCase() method
 //		String s1="java";
 //		System.out.println(s1.equalsIgnoreCase("JAVA")); //it checks only data is same or not 
 //		                                                  // but not bother about case of the data
@@ -69,7 +69,7 @@ public class string4 {
 //		Ashish@777
 //		true
 		
-// 9.5 substrin(int begin) and substring(int begin, int end)
+// 9.5 Public String substrin(int begin) and substring(int begin, int end)
 //		
 //		  SachinINDMI
 //index   012345678910
