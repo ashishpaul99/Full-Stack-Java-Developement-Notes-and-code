@@ -8,7 +8,7 @@ public class string4 {
 //		String s=new String("sachin");
 //		System.out.println(s[3]);
 //output: CE(The type of the expression must be an array type but it resolved to String)
-//9.1 Using CharAt method
+//9.1 Public char CharAt method
 //		String s=new String("sachin");
 //		System.out.println(s.charAt(2));
 //	output: c
