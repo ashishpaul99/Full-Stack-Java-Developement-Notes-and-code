@@ -176,13 +176,13 @@ public class Strings {
 //		System.out.println("enter username");
 //		String username=scan.nextLine();
 //		System.out.println(username);
-//		System.out.println(username.equals(u));
+//		System.out.println(username.equalsIgnoreCase(u));
 //
 ////	taking and comparing username and password
 //		System.out.println("enter password");
 //		String Password=scan.nextLine();
 //		System.out.println(Password);
-//		System.out.println(Password.equalsIgnoreCase(p));
+//		System.out.println(Password.equals(p));
 //	output:
 //		enter username
 //		ashishpaul99
