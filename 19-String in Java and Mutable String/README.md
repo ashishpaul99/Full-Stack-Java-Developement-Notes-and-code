@@ -27,3 +27,15 @@ Methods of String
 12.public int indexOf(char ch)
 
 13.public int lastIndexOf(char ch)
+
+14. Public String toString( ) Method
+
+15. StringBuffer Class
+
+17. Final keyword
+18. Final vs Immutability
+19. Important methods of StringBuffer/StringBuilder
+20. Constructors
+a. Public java.lang.StringBuffer( );
+b. Public java.lang.StringBuffer( int);
+c. Public java.lang.StringBuffer( java.lang.String);
