@@ -35,6 +35,9 @@ Methods of String
 17. Final vs Immutability
 18. Important methods of StringBuffer/StringBuilder
 19. Constructors
+
 a. Public java.lang.StringBuffer( );
+
 b. Public java.lang.StringBuffer( int);
+
 c. Public java.lang.StringBuffer( java.lang.String);
