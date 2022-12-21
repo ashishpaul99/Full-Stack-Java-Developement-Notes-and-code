@@ -1,4 +1,4 @@
-<h4>Mutable String and String programming<h4>
+<h2>Mutable String and String programming<h2>
 
 1. StringBuffer class
 
