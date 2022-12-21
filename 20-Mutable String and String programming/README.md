@@ -1,31 +1,31 @@
 # 7th Nov Live Class Mutable String and String programming
 
-StringBuffer class
+1. StringBuffer class
 
-Append Method in StringBuffer
+2. Append Method in StringBuffer
 
-Insert Method in StringBuffer
+3. Insert Method in StringBuffer
 
-Delete Method in StringBuffer
+4. Delete Method in StringBuffer
 
-Public StringBuffer reverse( )
+5. Public StringBuffer reverse( )
 
-Public Void setLength(int lenght)
+6. Public Void setLength(int lenght)
 
-Public void trim to size( )
+7. Public void trim to size( )
 
-Public void ensure capacity(int capacity)
+8. Public void ensure capacity(int capacity)
 
-Difference between StringBuffer and StringBuilder
+9. Difference between StringBuffer and StringBuilder
 
-String vs StringBuffer vs StringBuilder
+10. String vs StringBuffer vs StringBuilder
 
-Method Chaining
+11. Method Chaining
 
-Practiced few solved example problems on strings
+12. Practiced few solved example problems on strings
 
-Copy one string to another string
+a. Copy one string to another string
 
-Convert string from Lower case to Uppercase and vice versa
+b. Convert string from Lower case to Uppercase and vice versa
 
-Possible ways to reverse a string
+c. Possible ways to reverse a string
