@@ -1,4 +1,4 @@
-# 7th Nov Live Class Mutable String and String programming
+20 Mutable String and String programming
 
 1. StringBuffer class
 
