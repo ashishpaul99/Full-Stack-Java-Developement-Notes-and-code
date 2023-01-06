@@ -1,6 +1,6 @@
 <h3>8th Nov Live Class String programming, Encapsulation, GitHub Eclipse integration
 Autoplay<h3>
-<ol>
+<h5><ol>
   <li>Solved few problems on strings</li>
   <ol>
   <li>Check whether given string is Palindrome</li>
@@ -15,6 +15,6 @@ Autoplay<h3>
   <li>Shadowing</li>
   <li>Resolving shadowing problem</li>
   
- </ol>
+  </ol></h5>
   
 
