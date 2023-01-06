@@ -1,6 +1,5 @@
 <h3> 10th Nov Live Class Static keyword in Java</h3>
-1. Static keyword
-
+1. Static keyword<br>
 2. Static and Non-Static Elements
 
 3. Order of execution of static and non-static elements
