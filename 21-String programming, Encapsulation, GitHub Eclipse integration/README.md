@@ -1,11 +1,13 @@
 <h3>8th Nov Live Class String programming, Encapsulation, GitHub Eclipse integration
 Autoplay<h3>
-<ol>
+<ul>
   <li>Solved few problems on strings</li>
+  <ol>
   <li>Check whether given string is Palindrome</li>
   <li>Check whether given string is Anagram</li>
   <li>Check whether given string is Pangram</li>
- </>ol
+  </ol>
+ </ul>
   
 1. OOP's Concepts in java
 2. Encapsulation
