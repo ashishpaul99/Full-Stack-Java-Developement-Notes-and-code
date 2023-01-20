@@ -7,7 +7,7 @@
   <li>Private Modifiers</li>
   <li> Default Modifiers</li>
   <li>Protected Modifiers</li>
-<ol>
+</ol>
 
   <li>Overriding Methods</li>
   <li>Specialized Methods</li>
