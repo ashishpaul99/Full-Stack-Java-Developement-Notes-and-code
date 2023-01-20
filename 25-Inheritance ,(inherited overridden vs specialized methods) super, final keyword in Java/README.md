@@ -6,46 +6,20 @@
   <li>Public Modifiers</li>
   <li>Private Modifiers</li>
   <li> Default Modifiers</li>
+   <li>Protected Modifiers</li>
 <ul>
-  <li>Private Modifiers</li>
-  <li>Private Modifiers</li>
-  <li>Private Modifiers</li>
-  <li>Private Modifiers</li>
-  <li>Private Modifiers</li>
-  <li>Private Modifiers</li>
-  <li>Private Modifiers</li>
-  <li>Private Modifiers</li>
-  <li>Private Modifiers</li>
-  <li>Private Modifiers</li>
-  
 
-
-
-c. Default Modifiers
-
-d. Protected Modifiers
-
-2. Inherited Methods
-
-3. Overriding Methods
-
-4. Specialized Methods
-
-5. UML(Unified Modeling Language)
-
-6. Writing code by seeing UML
-
-7. Rules for Method Overriding in Java
-
-8. Super( ) Method vs Super keyword
-
-9. Usage of Super Keyword
-
-10. Final Keyword
-
-a. Java Final Class
-
-b. Java Final Method
-
-c. Java Final Variable
-
+  <li>Overriding Methods</li>
+  <li>Specialized Methods</li>
+  <li>Writing code by seeing UML</li>
+  <li>Rules for Method Overriding in Java</li>
+  <li>Super( ) Method vs Super keyword</li>
+  <li>Usage of Super Keyword</li>
+  <li>Final Keyword</li>
+  <ol>
+  <li>Java Final Class</li>
+  <li>Java Final Method</li>
+  <li>Java Final Variable</li>
+  </ol>
+  </ol>
+   
