@@ -2,12 +2,12 @@
 
 <ol>
   <li>Access Modifiers in java</li>
-<ul>
+<ol>
   <li>Public Modifiers</li>
   <li>Private Modifiers</li>
   <li> Default Modifiers</li>
-   <li>Protected Modifiers</li>
-<ul>
+  <li>Protected Modifiers</li>
+<ol>
 
   <li>Overriding Methods</li>
   <li>Specialized Methods</li>
@@ -21,5 +21,5 @@
   <li>Java Final Method</li>
   <li>Java Final Variable</li>
   </ol>
-  </ol>
+</ol>
    
