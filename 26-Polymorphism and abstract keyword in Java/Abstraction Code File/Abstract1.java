@@ -1,6 +1,6 @@
 //1. Abstraction
 // >>In one class if one method is also abstract 
-//  then must and should declared as abstract
+//  then class must and should declared as abstract
 abstract class Plane
 {
 //	1. abstract methods : Abstract method are such methods which has only 
