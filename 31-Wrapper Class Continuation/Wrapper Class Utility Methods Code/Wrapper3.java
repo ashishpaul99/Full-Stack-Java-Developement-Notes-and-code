@@ -1,4 +1,4 @@
-//3. paraseXXX()-converts string to primitive type
+//3. parseXXX()-we use parseXXX() to convert string to primitive type
 //String type -->ParseXXX()--> Primitive type
 //String is object
 public class Wrapper3 {
