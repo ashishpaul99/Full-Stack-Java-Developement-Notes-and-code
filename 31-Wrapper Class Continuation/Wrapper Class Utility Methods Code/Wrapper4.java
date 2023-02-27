@@ -5,8 +5,7 @@ public class Wrapper4 {
 		
 //		#Usage of wrapper class in real time coding
 //		commandline arguments ==> String input ==> arg[0],args[1]
-//   ==>write a program to take inputs from the command line and perform arithemetic operation
-//		command line arguments are treated as string
+//  
 
 //	==>code-1
 		
@@ -21,6 +20,8 @@ public class Wrapper4 {
 //		ashishpaul
 		
 //   ==>code-2
+// 		 ==>write a program to take inputs from the command line and perform arithemetic operation
+//		command line arguments are treated as string
 		
 		//Performing operation on commandline arguments
 //		int i1 = Integer.parseInt(args[0]);
