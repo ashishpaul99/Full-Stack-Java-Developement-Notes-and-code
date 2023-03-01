@@ -56,7 +56,7 @@ public class Wrapper9 {
 //	it create buffer of objects with capacity of -128 to 127. this many objects are 
 //	available for every wrapper class
 		
-//		factors methods are intelligent and there is 
+//		factory methods are intelligent and there is 
 //		Specialty in memory utilization
 		
 //		memory utilization will be effective 
