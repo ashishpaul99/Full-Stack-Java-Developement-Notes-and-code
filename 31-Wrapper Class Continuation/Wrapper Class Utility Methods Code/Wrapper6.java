@@ -63,12 +63,12 @@ public class Wrapper6 {
 //	    data is wrapped ad giving to primitive type
 //		from JDK 1.5 autoUnboxing is possible
 		Integer i5=new Integer(10);
-		int i6=i5;//>>compiler write these code behind the scenes
+		int i6=i5;
 		System.out.println(i6);//10
 		
 //		compiler converts Integer to int type using intValue() behind the scenes
 //		compiler write code behind the scenes. after compilation code would be
-//		int i6=i5.intValue();
+//		int i6=i5.intValue(); >>compiler write these code behind the scenes
 		
 		
 //		Note: AutoUnboxing is done by the compiler using a method called "xxxValue()"
