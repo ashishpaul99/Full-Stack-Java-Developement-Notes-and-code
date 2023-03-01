@@ -17,13 +17,13 @@ public class Wrapper9 {
 //		case-4
 		Integer x=new Integer(10);
 		Integer y=new Integer(10);
-		System.out.println(x==y);
+		System.out.println(x==y);//false
 //		2 objects pointing by different reference
 		
 //		case-5
 //		Integer x=new Integer(10);
 //		Integer y=10;//AutoBoxing : Integer y=Integer.valueOf()
-//		System.out.println(x==y);
+//		System.out.println(x==y);//false
 //		false - 2 objects never points to same object
 		
 //		case-6
