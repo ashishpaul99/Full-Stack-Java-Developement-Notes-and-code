@@ -1,5 +1,5 @@
 //2. var-args in java
-class Demo2{
+
 	
 //	>>Var arg method
 
@@ -25,7 +25,7 @@ class Demo2{
 	
 //	memory map
 	
-	
+class Demo2{
 	public void add(int...x) {
 		
 //		1. checking
