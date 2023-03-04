@@ -25,7 +25,7 @@ public class varargs10 {
 		
 //		1. compiler first check for nature of x
 //		then it do implicit type casting
-//		after type casting if march found then it binds value with it
+//		after type casting if match found then it binds value with it
 //		primitive--> do implicit type casting-->found-->long,float,double
 		
 //		here there no match(methods) found which accepts long,float and double arguments
