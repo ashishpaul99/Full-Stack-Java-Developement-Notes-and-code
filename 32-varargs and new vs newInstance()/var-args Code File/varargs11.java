@@ -12,7 +12,7 @@ public class varargs11 {
 		d.methodOne(x); //CE: can't find the method
 //		1. int =====> implicit type casting(widening)===>long,float,double(match not found)
 //		2. int =====> Autoboxing ===> Integer(match not found) 
-//		then again it has do type casting
+//		then again it has do type casting. compiler again do widening on Integer.
 //		3. Integer-->type casting(widening)--> Number,object(parent of integer)
 //		compiler search for number and object.(match not found)
 		
