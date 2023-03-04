@@ -25,4 +25,4 @@ public class varargs9 {
 }
 
 //output:
-//	AutoBoxing
+//	widening
