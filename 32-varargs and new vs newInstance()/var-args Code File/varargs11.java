@@ -10,9 +10,13 @@ public class varargs11 {
 		int x=10;
 		Demo11 d=new Demo11();
 		d.methodOne(x); //CE: can't find the method
+		
 //		1. int =====> implicit type casting(widening)===>long,float,double(match not found)
+		
 //		2. int =====> Autoboxing ===> Integer(match not found) 
 //		then again it has do type casting. compiler again do widening on Integer.
+// 		widening- child reference can be collected by parent type which is called as "Implicit typecasting"
+		
 //		3. Integer-->type casting(widening)--> Number,object(parent of integer)
 //		compiler search for number and object.(match not found)
 		
