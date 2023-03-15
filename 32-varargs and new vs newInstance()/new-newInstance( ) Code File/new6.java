@@ -3,9 +3,14 @@
 
 //new => requried class details known to compiler but not available at jvm then it
 //would result in "NoClassDefFoundError"
+// new loads .class file it search .class file in current working directory
 
 //newInstance() => requried class details not available at jvm then it would result
 //in "ClassNotFoundException"
+// newInstance we have to load manually it search .class file in current working directory
+
+		
+		
 
 class Student6
 {
