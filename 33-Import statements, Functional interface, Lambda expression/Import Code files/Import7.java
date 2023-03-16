@@ -6,13 +6,13 @@
 //public class Import7 {
 //
 //	public static void main(String[] args) {
-//		System.out.println(Test.name.length());
+//		System.out.println(Test.name.length());//6
 //
 //	}
 //
 //}
 
-//example-2:
+//example-2: System.out.print();
 
 //class System{
 //	static PrintStream out;
