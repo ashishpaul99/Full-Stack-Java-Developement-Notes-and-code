@@ -88,7 +88,7 @@
 //   3000+ functions are available
 //   compiler bring all 3000+ functions to code.
 //   it is bringing and keeping at compile time only.
-//	so we this inclusion Static Inclusion. 
+//	so we call this inclusion Static Inclusion. 
 //	compiler only doing all.
 
 //java==> import java.lang.*;
