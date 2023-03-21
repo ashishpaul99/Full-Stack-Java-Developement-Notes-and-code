@@ -45,10 +45,10 @@
 //->method is present wheather developer  handled
 //the exception or not.
 //if we handle exception the matter will go to that part.
-//if it not handled then matter jvm will give to 
+//if it not handled then jvm will give matter  to 
 //default exception handler.
 //if it is still not handles os come into picture.
-//if OS also fail then crash will happen.
+//if OS also fail then System crash will happen.
 
 
 
