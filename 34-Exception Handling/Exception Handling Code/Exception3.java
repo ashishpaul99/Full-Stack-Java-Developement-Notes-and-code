@@ -42,7 +42,7 @@
 //->jvm internally use rts(run time system) it will do later 
 //Activities.
 //-> it will find out in same stack frame or code where 
-//->method is present wheather developer the developer handled
+//->method is present wheather developer  handled
 //the exception or not.
 //if we handle exception the matter will go to that part.
 //if it not handled then matter jvm will give to 
