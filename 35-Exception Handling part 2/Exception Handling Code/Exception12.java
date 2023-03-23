@@ -54,7 +54,7 @@
 //}
 
 //2. Ducking an exception.
-//->Complier things there may be risk in duration of 4 sec.
+//->Complier thinks there may be risk in duration of 4 sec.
 //->but it sure there will not be any proble so exception is 
 // ducked.
 public class Exception12  {
