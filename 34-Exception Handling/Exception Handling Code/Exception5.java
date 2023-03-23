@@ -1,7 +1,7 @@
 
 //1. if programmer has handled the exception will matter
 //go to default exception handler?
-//  Ans- No, it will go default exception handler when user 
+//  Ans- No, it will go to default exception handler when user 
 //       not handled.
 
 //--> there are many exceptions. parent of all exceptions is
