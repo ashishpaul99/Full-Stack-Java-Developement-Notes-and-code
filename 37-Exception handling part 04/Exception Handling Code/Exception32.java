@@ -115,8 +115,6 @@
 //  project with small change or with no change. 
 //->such code we call it as "Boilerplate".
 
-
-
 //=>1.4 Solution for the problem
 //->To Overcome this problem SUN MS introduced 
 //  try with resources in "1.7" version of jdk.
@@ -209,15 +207,3 @@
 //  resource.
 //2. No readability disturbance.
 //3. decreases complexity and increases readability
-
-
-
-
-
-
-
-
-
-
-
-
