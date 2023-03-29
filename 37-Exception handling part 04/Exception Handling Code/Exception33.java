@@ -118,7 +118,6 @@
 
 //=>In which interface the SRS is brought?
 //->there is interface called AutoCloseable.
-//->what is method we have to write in finally block.
 //->tell the Resource to implement the Interface and give 
 //  the body of close.
 //->so jvm work with try with resource once control comes out
