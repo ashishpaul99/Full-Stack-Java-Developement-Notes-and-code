@@ -126,7 +126,7 @@
 //		     Java
 //			 |
 //API(Thread, Runnable, ThreadLocal)->90% work done by API
-//		|
+//		  |
 //		 Packages(java.lang)
 //		    |
 //	  .class files
