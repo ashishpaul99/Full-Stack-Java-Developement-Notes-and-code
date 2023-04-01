@@ -13,19 +13,6 @@
 //  al.add(new Cricketer());//1st position
 //  al.add(new Customer())//2nd position 
 
-//->in 0th place student object is there.
-//->Student data can be collected by object.
-//->for every in built classes or customized classes Object 
-//  is related.
-//->o instanceof Student-> o is instance of Student
-//->it returns boolean value.
-//-->o is object type 
-//-->Student is Student type
-
-//-->Object hold Student data in run time.
-//-->it returns true in if block
-
-
 //		Object o=al.get(0);
 //		if(o instaceof Student) {
 //				Student s=(Student)o;
@@ -40,6 +27,19 @@
 //	        Customer c=(Customer)o;
 //    	    //perform Customer specific operations
 //		}
+
+//->in 0th place student object is there.
+//->Student data can be collected by object.
+//->for every in built classes or customized classes Object 
+//  is related.
+//->o instanceof Student-> o is instance of Student
+//->it returns boolean value.
+//-->o is object type 
+//-->Student is Student type
+
+//-->Object hold Student data in run time.
+//-->it returns true in if block
+
 
 //see diagram at: 2:22:00
 //               Object(class)
