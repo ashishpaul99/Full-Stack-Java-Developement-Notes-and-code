@@ -124,12 +124,12 @@
 
 //->see picture 1:07:00
 //		   Java
-//			 |
+//			  |
 //			API(Thread, Runnable, ThreadLocal)->90% work done by API
-//			 |
+//			  |
 //		 Packages(java.lang)
-//		     |
-//	     .class files
+//		    |
+//	  .class files
 //->In java Multi threadind is very easy.
 //->java Language full of API.
 //->API referes to collection of packages. 
