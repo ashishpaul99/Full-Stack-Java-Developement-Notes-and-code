@@ -123,10 +123,10 @@
 //  "Multi-Threading".
 
 //->see picture 1:07:00
-//		   Java
-//			|
-//		API(Thread, Runnable, ThreadLocal)->90% work done by API
+//		     Java
 //			 |
+//API(Thread, Runnable, ThreadLocal)->90% work done by API
+//		|
 //		 Packages(java.lang)
 //		    |
 //	  .class files
