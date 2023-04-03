@@ -17,7 +17,7 @@
 //=>Then how to tell to jvm execute each task with seperate 
 //  line execution.
 //1. Identify the task
-//2. Write with in a class. this class user defined class.
+//2. Write with in a class. this class is user defined class.
 //3. the object of the class get facility of thread when few 
 //   things are taken from in built API. 
 //4. By extending Thread class we can create a Thread by 
