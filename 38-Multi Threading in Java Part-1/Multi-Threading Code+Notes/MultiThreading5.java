@@ -293,17 +293,6 @@ public class MultiThreading5 {
 //	Main Thread
 //	Main Thread
 
-
-	 
-
-
-
-
-
-
-
-
-
 	
 
 
