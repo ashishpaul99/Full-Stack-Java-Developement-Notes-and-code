@@ -1,7 +1,8 @@
-//Code-2: Thread is created by thread class start method() 
-//which calls run method present in thread class. 
-//in order create thread we need run method present 
-//in MyRunnable class.
+//Code-2: Using public java.lang.Thread() Constructor.
+// ->thread class start method() which calls run method present in thread class. but we want run method present in MyRunnable class.
+// ->in this case by using thread constructor  with zero parameters it is not possible to create thread. so Multi threading is not
+//   implemented here.
+
 
 //->for creating thread create object of thread class.
 //->start() method is available in thread class.
@@ -34,6 +35,14 @@
 //  of runnable.
 
 
+// ==>Single thread is executed in below code.
+// Code Ex[alaination
+// 1. Thread class object is created. 
+// 2. Start() method Thread class is called and invoke run method of Thread class.
+// ->in this case by using thread constructor  with zero parameters it is not possible to create thread. so  Multi threading is not
+//   implemented here.
+
+
 //    interface Runnable{
 //    	public abstract void run();
 //    		
@@ -47,7 +56,7 @@
 //    		3. invoke or call run() method
 //    	}  
 //      public void run() {
-//    	  
+//    	  //No implementation 
 //      }
 //    }
 
