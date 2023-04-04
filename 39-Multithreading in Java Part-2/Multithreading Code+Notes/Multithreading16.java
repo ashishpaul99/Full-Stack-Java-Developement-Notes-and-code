@@ -2,7 +2,7 @@
 //->in this code we use public java.lang.Thread(java.lang.Runnable)
 //  Constructor for creating thread using runnable interface.
 // ->it calls start method of Thread class but it will invoke run method of MyRunnable class.
-->implentation of Multi Threaidng is done in below code.
+// ->implentation of Multi Threaidng is done in below code.
 
 //->Previously thread constructor with zero parametrer start() method calls run method present in 
 //  thread class.
