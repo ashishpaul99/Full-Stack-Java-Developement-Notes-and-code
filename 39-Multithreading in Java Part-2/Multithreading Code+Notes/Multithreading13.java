@@ -70,18 +70,22 @@
 
 //Code-1
 //Code Explaination
-//1. MyThread2 object is created.
+//1. MyThread object is created.
 //2. start() method is heart of multi-threading.
 //3. JVM checks for start() method in MyThread class.
 //4. for this MyThread2 parent is at two level.
 //     1. class level->Object is parent. there is no start method in object.
+       // ->JVM checks for start method in MyThread class but start method not found here so it checks parent of MyThread class. 
+       //   here parent pf MyThread is Object. start() is not presented in Object class
 //     2. interface level
+//      ->there is not start method in Runnable interface.
 //->it throws ClassNotFoundException.
 //->start() method is available in thread class.
 
 
-//Code- creation of thread using Runnable interface
 
+
+  
 //    interface Runnable{
 //    	public abstract void run();
 //    		
@@ -100,7 +104,7 @@
 //    }
 
 
-//class MyThread2 implements Runnable{
+//class MyThread implements Runnable{
 //	
 //	@Override
 //	public void run(){
@@ -111,7 +115,7 @@
 //
 //public class Multithreading13 {
 //	public static void main(String[] args) {
-//		MyThread2 t=new MyThread2();
+//		MyThread t=new MyThread();
 //       
 //		t.start();  //-->Line-1
 //		
