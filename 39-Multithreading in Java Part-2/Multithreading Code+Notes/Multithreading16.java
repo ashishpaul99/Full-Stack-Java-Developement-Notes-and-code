@@ -1,8 +1,9 @@
 //Code-3:Creating thread using runnable interface.
 //->in this code we use public java.lang.Thread(java.lang.Runnable)
 //  Constructor for creating thread using runnable interface.
+// ->it calls start method of Thread class but it will invoke run method of MyRunnable class.
 
-//->Previously start() calls run method present in 
+//->Previously thread constructor with zero parametrer start() method calls run method present in 
 //  thread class.
 //->but we want run method present in MyRunnable class.
 //->tell to thread class to take start method from Thread 
