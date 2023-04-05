@@ -16,12 +16,12 @@
 
 //                   OS
 //                    | 3sec
-//	JVM<-----CPU
+//JVM<-----CPU
 
-////            Thread sheduler
-//             _______|________
-//            |                |
-//       main thread        Thread-0(child thread)
+//                  Thread sheduler
+//                 _______|________
+//                |                |
+//           main thread        Thread-0(child thread)
 //
 
 //->we have two threads main thread and thread-0(child thread).
