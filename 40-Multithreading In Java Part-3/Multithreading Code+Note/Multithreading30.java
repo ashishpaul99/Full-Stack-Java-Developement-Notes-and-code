@@ -14,9 +14,9 @@
 
 //see picture at 27:24:00
 
-//                   OS
-//                    | 3sec
-//JVM<-----CPU
+//                      OS
+//                       | 3sec
+//                  JVM<-----CPU
 
 //                  Thread sheduler
 //                 _______|________
