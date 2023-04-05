@@ -185,7 +185,7 @@
 //->for cracked windows verion we will not expected output.
 
 //Example-2
-//->The allowed priorityNumber is from 1 to 10,if we try to 
+//->The allowed priority Number is from 1 to 10,if we try to 
 //. give other values it woudld result in "IllegalArgumentException".
 
 //->set priority of the thread to 100.
