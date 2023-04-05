@@ -21,7 +21,7 @@ class MyThread extends Thread
 	}
 	
 }
-public class Multithreading30 {
+public class Multithreading32 {
 
 	public static void main(String[] args) {
 		
