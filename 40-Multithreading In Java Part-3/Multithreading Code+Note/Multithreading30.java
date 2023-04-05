@@ -66,8 +66,8 @@
 //  priority is inherited from main thread to child thread.
 //  see picute at: 41:10
 
-//							            Thread
-// 							               |extends
+//	Thread
+// 			|extends
 //                             |
 //                           MyThread
 
