@@ -1,7 +1,7 @@
 //=>5th Dec Live Class Multithreading In Java Part 03
 //Nithin sir | I worked on 5/4/23
 
-//1. Priority of the executed by Thread sheduler
+//1. Priority of executing thread by Thread sheduler
 
 //->this Thread.currentThread().getPriority() method is used 
 //  for Priority of thread.
