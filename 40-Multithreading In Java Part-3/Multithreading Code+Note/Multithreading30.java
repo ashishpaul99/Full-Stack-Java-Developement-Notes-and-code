@@ -67,7 +67,7 @@
 //  see picute at: 41:10
 
 //	                    Thread
-// 			     |extends
+// 			       |extends
 //                             |
 //                           MyThread
 
