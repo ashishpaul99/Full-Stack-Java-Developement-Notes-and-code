@@ -6,8 +6,8 @@
 //->see picture at 1:51:00 
 //Example-
 //scenario-1
-//            Hyder sir(java)       	        Nithin sir(JEE)
-//                  |             		   |
+//            Hyder sir(java)       	          Nithin sir(JEE)
+//                  |             		     |
 //       10:00am    |           10:00am  |      
 //          |       | t1(waiting state) 	     |     |t2
 //          |       |                          |     |
