@@ -12,7 +12,7 @@
 //  join(long time_in_ms, int time_in_ns) method of Thread 
 //  class.
 
-//Example-3 : 
+//Example-1 : 
 
 //class MyThread extends Thread
 //{
