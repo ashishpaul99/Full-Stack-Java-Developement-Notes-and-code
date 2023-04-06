@@ -7,6 +7,10 @@
 //    a. thread.join(1000);
 //    b. thread.join(1000,100);
 
+//->Signatures of sleep method
+//public static native void sleep(long ms) throws InterruptedException
+//public static void sleep(long ms,int ns) throws InterruptedException
+
 // ->by using two method signature of sleep
 
 // 2. Possibilty of thread to comming out of sleeping state
