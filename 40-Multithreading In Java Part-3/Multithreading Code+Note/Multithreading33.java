@@ -78,6 +78,7 @@
 //->if run() is finished with execution then it enters into
 //  dead state.
 
+//=> Life of thread when yield method is called
 //->Running thread if it encounter yield method it goes to 
 //  Ready/Runnable (statesome other state waiting for control 
 //  to come back).
