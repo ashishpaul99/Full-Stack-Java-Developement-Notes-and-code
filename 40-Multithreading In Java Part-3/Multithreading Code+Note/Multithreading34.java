@@ -49,7 +49,7 @@
 
 
 
-//waiting case of t1
+//waiting cases of t1
 //1. till class gets over t1 waits.
 //2. exactly 30min t1 waits
 //3.exactly 30min 45 sec t1 will wait
