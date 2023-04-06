@@ -1,5 +1,5 @@
 //scenario-3 Marraige
-//->these action depenedt on each other.
+//->these action dependent on each other.
 //->without fixing venue wedding card printing will not 
 //  happen. 
 //->t2 has to wait for t1. t2 will tell till ti1 completes 
