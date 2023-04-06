@@ -1,7 +1,7 @@
 //Case-5: If both the threads invoke t.join(),mt.join() then 
 //the program would result in "deadlock".
 
-//Example-5
+//Example-1
 //->for accessing current thread under execution by using
 //  Thread.currentThread() method
 //->calling on join method on thread object
@@ -43,3 +43,34 @@
 
 //output:
 //	no output
+
+// Example-2
+// eg#2.
+// class MyThread extends Thread{
+// static Thread mt;
+// @Override
+// public void run(){
+// try{
+// mt.join();
+// }
+// catch (InterruptedException e){
+// }
+// for (int i=1;i<=10 ;i++ ){
+// System.out.println("child thread");
+// }
+
+// }
+// }
+// public class Test3 {
+// public static void main(String... args)throws InterruptedException{
+// MyThread.mt=Thread.currentThread();
+// MyThread t=new MyThread();
+// t.start();
+// t.join();
+
+// for (int i=1;i<=10;i++ ){
+// System.out.println("main thread");
+// Thread.sleep(2000);//20sec sleep
+// }
+// }
+// }
