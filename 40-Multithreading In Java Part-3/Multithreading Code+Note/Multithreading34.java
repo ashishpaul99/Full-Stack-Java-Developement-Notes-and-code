@@ -8,7 +8,7 @@
 //scenario-1
 //            Hyder sir(java)       	          Nithin sir(JEE)
 //                  |             		     |
-//       10:00am    |                     10:00am  |      
+//       10:00am    |                       10:00am  |      
 //          |       | t1(waiting state) 	     |     |t2
 //          |       |                          |     |
 //        10:45     |                       10:45    |
