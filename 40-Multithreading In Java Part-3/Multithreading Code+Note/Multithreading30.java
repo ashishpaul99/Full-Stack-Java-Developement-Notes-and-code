@@ -51,7 +51,7 @@
 
 
 
-//1.1 DefaultPriority:
+//1.1 Default Priority Of Thread:
 //->The default priority for only main thread is "5",
 //  where as for other threads priority will be inherited 
 //  from parent to child. Parent Thread priority will be 
