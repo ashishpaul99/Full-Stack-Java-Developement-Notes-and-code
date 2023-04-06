@@ -9,7 +9,7 @@
 //->making main thread to sleeping state then child get 
 //  chance to execute.
 
-//Example-4:
+//Example-1:
 class MyThread extends Thread
 {
 	static Thread mt;
