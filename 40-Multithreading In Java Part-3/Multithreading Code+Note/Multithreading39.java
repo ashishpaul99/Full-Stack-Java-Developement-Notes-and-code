@@ -1,7 +1,7 @@
 //Case-5: If both the threads invoke t.join(),mt.join() then 
 //the program would result in "deadlock".
 
-//Example-5
+//Example-1
 //->for accessing current thread under execution by using
 //  Thread.currentThread() method
 //->calling on join method on thread object
