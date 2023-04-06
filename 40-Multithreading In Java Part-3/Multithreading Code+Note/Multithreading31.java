@@ -1,4 +1,5 @@
-//2. How to give priority for thread?
+//2.Setting priority of thread
+// How to give priority for thread?
 
 //->we have a method called setPriority()
 //->here priority of child is given as 10.
