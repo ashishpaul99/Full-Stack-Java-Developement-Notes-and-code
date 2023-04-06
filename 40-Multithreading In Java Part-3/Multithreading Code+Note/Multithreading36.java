@@ -25,7 +25,7 @@
 //Parent thread
 //Parent thread
 
-//Example-2 : 
+//Example-1 : 
 //class MyThread extends Thread
 //{
 //	@Override
