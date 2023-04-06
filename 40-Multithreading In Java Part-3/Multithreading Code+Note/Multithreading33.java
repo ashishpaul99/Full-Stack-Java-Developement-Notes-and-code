@@ -51,6 +51,7 @@
 //   for giving chance for waiting Threads of same priority.
 
 //->public static native void yield()
+// ->Native is Access modiefier
 //                          or
 
 //yield()- pause or stop execution for sometime and check
