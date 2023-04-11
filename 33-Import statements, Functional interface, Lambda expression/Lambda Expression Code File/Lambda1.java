@@ -86,7 +86,7 @@
 //}
 
 //How to write lambda expression?
-//1. we need use to Lambda operator to write lambda expression.
+//1. we need to use Lambda operator to write lambda expression.
 
 //2. divide operator into two parts
 //to left of arrow operator mention the parameters required.
