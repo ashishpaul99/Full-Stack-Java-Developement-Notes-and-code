@@ -37,7 +37,7 @@
 
 
 // ==>Single thread is executed in below code.
-// Code Ex[alaination
+// Code Explaination
 // 1. Thread class object is created. 
 // 2. Start() method Thread class is called and invoke run method of Thread class which has no implementation.
 
