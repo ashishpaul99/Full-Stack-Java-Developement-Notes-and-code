@@ -73,7 +73,7 @@
 
 //->MyThread is creating by "mainThread", so priority of 
 //  "mainThread" will be shared as a priority for "MyThread".
-
+// ->we can know priority of thread by using this method-> Thread.currentThread().getPriority()
 
 //Example-1 
 //->here by default both the thread priority is same.
