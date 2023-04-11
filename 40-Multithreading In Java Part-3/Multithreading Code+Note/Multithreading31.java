@@ -93,7 +93,8 @@
 //}
 
 //output:
-//	Priority of main thread is 5
 //	Priority of Child thread is 10
+//	Priority of main thread is 5
 
-//->for cracked windows verion we will not expected output.
+
+//->for cracked windows verion we will not get expected output.
