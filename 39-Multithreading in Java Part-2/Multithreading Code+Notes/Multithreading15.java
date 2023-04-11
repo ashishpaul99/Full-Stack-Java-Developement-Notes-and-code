@@ -40,9 +40,13 @@
 // Code Explaination
 // 1. Thread class object is created. 
 // 2. Start() method Thread class is called and invoke run method of Thread class which has no implementation.
+// ->Using public java.lang.Thread() Constructor.
+// ->In this case by using thread constructor with zero parameters start method() is called 
+//   and invoke run method present in thread class which has no implementation.
 
 
-
+// Code :In this case by using thread constructor with zero parameters start method() is called and invoke run method
+// present in thread class which has no implementation.
 //    interface Runnable{
 //    	public abstract void run();
 //    		
