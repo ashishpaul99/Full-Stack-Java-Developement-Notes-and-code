@@ -25,7 +25,7 @@
 
 //2. public java.lang.Thread(java.lang.Runnable);
 //->thread class start(), followed by implementation class of 
-//  Runnable run()
+//  Runnable run() method.
 //->if we create a Thread object like this it calls start()
 //  Thread class but it will call run method form implementation
 //  of runnable.
