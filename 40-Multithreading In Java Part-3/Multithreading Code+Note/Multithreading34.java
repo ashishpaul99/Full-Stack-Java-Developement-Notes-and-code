@@ -42,9 +42,10 @@
 
 // public final void join() throws InterruptedException
 
+//=>When Interrupted exception is thrown?
 //->Note: While one thread is in waiting state and if one 
 //  more thread interupts then it would result in 
-//  "InteruptedException".InteruptedException is 
+//  "InterruptedException".InterruptedException is 
 //  checkedException which should always be handled.
 
 
