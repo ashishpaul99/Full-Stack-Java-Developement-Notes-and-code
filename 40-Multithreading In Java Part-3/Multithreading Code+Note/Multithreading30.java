@@ -62,7 +62,7 @@
 //  default priority(5)
 
 //=>Why child thread priority is assigned to 5?
-//->the parent child thread is main thread. hence the 
+//->the parent of child thread is main thread. hence the 
 //  priority is inherited from main thread to child thread.
 //  see picute at: 41:10
 
