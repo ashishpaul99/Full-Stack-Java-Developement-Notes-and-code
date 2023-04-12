@@ -61,7 +61,7 @@
 //->JVM will create main thread and is only starts with 
 //  default priority(5)
 
-// ->40:20
+// ->see picture at 40:20
 //=>Why child thread priority is assigned to 5?
 //->the parent of child thread is main thread. hence the 
 //  priority is inherited from main thread to child thread.
@@ -72,8 +72,8 @@
 //                             |
 //                           MyThread
 
-//->MyThread is creating by "mainThread", so priority of 
-//  "mainThread" will be shared as a priority for "MyThread".
+//->MyThread is created from "mainThread", so priority of 
+//  "mainThread" priority is shared with "MyThread".
 // ->we can know priority of thread by using this method-> Thread.currentThread().getPriority()
 
 //Example-1 
