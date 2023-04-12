@@ -61,6 +61,7 @@
 //->JVM will create main thread and is only starts with 
 //  default priority(5)
 
+// ->40:20
 //=>Why child thread priority is assigned to 5?
 //->the parent of child thread is main thread. hence the 
 //  priority is inherited from main thread to child thread.
