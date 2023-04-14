@@ -7,7 +7,7 @@
 //->If thread is in sleeping state or in waiting state we can
 //  interupt a thread.
 
-//=>When Interrupted exception is thrown?
+//=>When InterruptedException is thrown?
 //->Note: While one thread is in waiting state and if one 
 //  more thread interupts then it would result in 
 //  "InterruptedException".InterruptedException is 
