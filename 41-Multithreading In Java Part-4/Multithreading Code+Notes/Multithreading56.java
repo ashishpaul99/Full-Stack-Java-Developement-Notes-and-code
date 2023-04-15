@@ -31,7 +31,7 @@
 //m2()->synchronized method
 //m3()-> normal method
 
-//->t1 is applying up lock X-object
+//->t1 is applying up lock while executing on X-object
 //->t2 has to wait for t1 to execute.
 //->t3 don't need lock because it is not synchronized.
 
