@@ -44,9 +44,9 @@
 //		|		 |		|		|		|	
 //		|		 |		|		|		|	
 //		|		 |		|		|		|	
-//      t1  	 t2  	t3  	t4  	t5  
-//      m1()     m2()   m3()    m4()    m5()
-//    static    static
+//           t1  	 t2  	t3  	t4  	t5  
+//          m1()     m2()   m3()    m4()    m5()
+//         static    static
 // synchronized synchronized
 
 //eg:
