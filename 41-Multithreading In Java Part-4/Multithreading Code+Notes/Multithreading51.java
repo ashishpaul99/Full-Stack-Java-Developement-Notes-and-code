@@ -52,6 +52,7 @@
 //class MyThread extends Thread{
 //	Display d; //->Has-A Relationship 
 //	String name;
+//  ->MyThread Constructor
 //	MyThread(Display d,String name){
 //		this.d=d;
 //		this.name=name;
