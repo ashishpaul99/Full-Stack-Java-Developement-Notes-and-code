@@ -24,7 +24,7 @@
 //void m3(){}
 //}
 
-//->Interally for class one object willl be created. using 
+//->Interally for class one object will be created. using 
 //  that object internally lock will be applied.
 
 //m1()->synchronized method
