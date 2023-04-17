@@ -42,10 +42,6 @@
 //->Postbox belongs to Person-1. he is the owner. 
 
 
-
-
-
-
 //->see picture at 52:00
 //=>same thing we can do in java
 //->here thread t1 is person-1 and thread t2 is Postman and
@@ -62,8 +58,6 @@
 //->Thread-t1 is waitng at postbox object.
 //->two threads are communicating each other with the help of 
 //  one resource this resource is called interThreadCommunication.
-
-
 
 //->see picture at 1:05:00
 //=>InterThreadCommunication(remember postbox example)
@@ -82,24 +76,3 @@
 //1. notify()
 //2. notifyAll()
 //3. wait()
-
-
-
-
-
-
-
-
-
-
-
-
-
-public class Multithreading68 {
-
-	public static void main(String[] args) {
-		// TODO Auto-generated method stub
-
-	}
-
-}
