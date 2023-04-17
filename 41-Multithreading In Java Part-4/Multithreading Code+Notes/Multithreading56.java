@@ -131,3 +131,12 @@
 //  then syncronized concept is required(applicable).
 
 
+// Note:: lock concept applicable only for objects and class types, but not for
+//        primitive types. if we try to do it would result in compile time error 
+//        saying "unexpected type".
+
+// eg:: int x=10;
+// synchronized(x){//CE: unexpected type found:int required:reference
+// }
+
+
