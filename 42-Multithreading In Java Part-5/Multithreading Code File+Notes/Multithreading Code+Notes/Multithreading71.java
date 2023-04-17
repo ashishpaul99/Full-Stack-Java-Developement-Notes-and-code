@@ -24,8 +24,6 @@
 //  object but not all locks it has.
 
 
-
-
 //Interview Question
 //->Method like wait(),notify(),notifyAll() are present 
 //  inside Object class, y not in Thread class?
