@@ -1,5 +1,4 @@
-//Example-3: Knowing whhich thread is getting lock and which 
-//           thread is releasing lock.
+//Example-3: Knowing which thread is getting lock and which thread is releasing lock.
 
 //->Displaying which thread is get lock inside synchronized lock
 
