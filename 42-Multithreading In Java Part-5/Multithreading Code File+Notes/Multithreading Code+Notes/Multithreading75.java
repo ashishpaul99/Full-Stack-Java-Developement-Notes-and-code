@@ -1,4 +1,4 @@
-//=>Making main thread sleep
+//=>Making main thread to sleep
 //Example-1:making main thread sleep for 3 sec
 //->delay of three seconds giving for main thread.
 //->main thread is sleeping then thread sheduler gives chance
