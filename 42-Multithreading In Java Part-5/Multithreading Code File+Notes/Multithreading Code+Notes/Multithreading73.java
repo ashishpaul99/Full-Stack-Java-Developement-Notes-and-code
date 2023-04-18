@@ -126,7 +126,7 @@ public class Multithreading73 {
 
 //->see picture at 1:39:00
 //Thread Sheduler
-//_________|_________
+//  _________|_________
 //|                   |
 //main               Thread-0
 
