@@ -1,5 +1,5 @@
 //=>there are two types of locks
-//a. Objecy level lock
+//a. Object level lock
 //b. Class level lock
 
 //a. Object level Lock :
