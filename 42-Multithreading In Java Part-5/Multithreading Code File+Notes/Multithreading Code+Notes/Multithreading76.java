@@ -73,12 +73,12 @@
 //->But which Thread will be notify(inform) we can't expect 
 //  exactly it depends on JVM.
 
-//	eg: 	waiting state
+//	eg: 	              waiting state
 //				   |
-//          	   | obj.wait(); 6 threads are waiting
-//    obj.notify() |
+//          	                   | obj.wait(); 6 threads are waiting
+//                    obj.notify() |
 //				   |
-// 	          Running state
+// 	                        Running state
 //Among 6 threads which thread will get a chance we don't 
 //have control over that it is decided
 //by JVM(threadscheduler).
@@ -94,11 +94,11 @@
 
 //->remember train example benguluru  to Belgaum
 //eg:				 waiting state
-//							|
-//							| obj.wait(); 6 threads are waiting
-//		   obj.notifyAll()  | 
-//                          |
-//                     Running state
+//					|
+//					| obj.wait(); 6 threads are waiting
+//		       obj.notifyAll()  |
+//                                      |
+//                                   Running state
 
 //Note: On which object we are calling wait(), notify() and 
 //notifyAll() methods that corresponding object lock we have
