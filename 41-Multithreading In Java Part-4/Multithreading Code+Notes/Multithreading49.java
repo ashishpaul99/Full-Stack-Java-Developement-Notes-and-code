@@ -1,4 +1,4 @@
-//5. Creating thread using annonmyous inner class
+//5. Creating thread using anonymous inner class
 
 //code expaianation:
 //->creating object of class which implements Runnable and
