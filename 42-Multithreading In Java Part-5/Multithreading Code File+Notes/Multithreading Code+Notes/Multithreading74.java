@@ -1,4 +1,6 @@
 //=>Previous code whithout synchronization
+
+// Example-1:
 //->here main thread will get a chance
 //->it execute and enters into dead state.
 
