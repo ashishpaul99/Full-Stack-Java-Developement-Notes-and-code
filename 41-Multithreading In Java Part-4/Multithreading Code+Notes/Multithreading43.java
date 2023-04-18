@@ -36,7 +36,7 @@
 //->here both thread have same priority we cannot predict 
 //  which thread get a chance.
 //->telling to main thread.
-//    t.interrupr();
+//    t.interrupt();
 //->main thread or parent thread is interrupting child thread.
 
 //->there are two threads 
