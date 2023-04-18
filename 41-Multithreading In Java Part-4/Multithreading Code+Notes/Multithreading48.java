@@ -1,4 +1,4 @@
-//=>4. Creating thread using Lamba expression
+//=>4. Creating thread using Lambda expression
 
 //code expaianation:
 //->object of runnable interface is created.
