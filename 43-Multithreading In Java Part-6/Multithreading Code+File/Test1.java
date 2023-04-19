@@ -52,7 +52,7 @@
 
 //->Objects of class A and B
 //        A a=new A();
-//		  B b=new B();
+//        B b=new B();
 
 //->when we tell t.m1()
 
