@@ -19,7 +19,7 @@
 //->hero and heroin ->main thread
 //->make up artist  ->supporting thread
 
-//=>4.1 MainObjective of Daemon Thread
+//=>4.1 Main Objective of Daemon Thread
 //->The main objective of DaemonThread, to provide support
 //  for Non-Daemon threads(main thread).
 //eg:if main threads runs with low memory then jvm will call
