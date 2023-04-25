@@ -28,7 +28,7 @@
 //  continues to waits forever.
 //->these condition of waiting forever for lock we call it as
 //  Dead Lock
-//->make sure synchronized keyword is properly so that 
+//->make sure synchronized keyword is used properly so that 
 //  dead lock is avoided.
 
 
