@@ -1,7 +1,4 @@
 
-public class Import2 {
-
-	public static void main(String[] args) {
 //		Case 2:
 //			Which of the following import statements are meaningful ?
 //			a. import java.util;
@@ -38,7 +35,3 @@ public class Import2 {
 //	-->Similarly whenever we are using import statements it 
 //	   is not require to use fully qualified name.
 
-
-	}
-
-}
