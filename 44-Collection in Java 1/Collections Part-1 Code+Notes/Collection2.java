@@ -40,14 +40,14 @@
 //->it is time cosuming.
 //->it is not efficient because of shifting object to next index.
 
-//->9. In ArrayListIndex based access is allowed.we can access the data by using index.
+//->9. In ArrayList Index based access is allowed.we can access the data by using index.
 
 
 
 
 
 
-
+//Example-1: ArrayList Example
 
 //Code Explaination:
 //->ArrayList is in built class.
@@ -70,9 +70,6 @@
 
 //Collection-4:
 //->we can replace the element in collection with other element.
-
-
-
 
 
 import java.util.*;
@@ -127,11 +124,6 @@ public class Collection2 {
 		
 		al4.add(55);
 		System.out.println("After replacing data in  rear end"+al4); //output: After replacing data in  rear end[5, 11, 12, 28, 13, 14, 15, 55]
-		
-		
-		
-		
-		
 		
          
 	}
