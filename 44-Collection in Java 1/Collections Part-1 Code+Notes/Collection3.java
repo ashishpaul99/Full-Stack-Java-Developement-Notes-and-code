@@ -48,7 +48,7 @@
 //	ll1.add(10);
 //	ll1.add("ineuron");
 //	ll1.add(20);
-//  ll1.add(20);
+//      ll1.add(20);
 //	System.out.println(ll1);
 
 //output: [10, ineuron, 20, 20]
