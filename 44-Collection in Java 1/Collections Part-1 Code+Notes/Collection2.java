@@ -8,6 +8,11 @@
 //->ArrayList is dynamic in nature.
 //->To use any of the collection classes we need to import.
 //eg: import java.util.*;
+//->Indexed based accessing is allowed.
+//->Duplicates are allowed.
+//->it is from list interface.
+//->efficient for insertion and deletion at rear end 
+//->using inbuilt methods we can perform operation on it.
 
 //2.Dynamic Arary -> as we add the elements Dynamiclly at the 
 //  rear end it will grow.
@@ -30,6 +35,7 @@
 //->8. when we add elements in middle it replaces the element 
 //     at particular index by shifting the element present in
 //     that place to the next index.
+//->9. ArrayList stores large amount of data.
 
 //eg:
 //   Existing data[11, 12, 13, 14, 15]
@@ -41,11 +47,6 @@
 //->it is not efficient because of shifting object to next index.
 
 //->9. In ArrayList Index based access is allowed.we can access the data by using index.
-
-
-
-
-
 
 //Example-1: ArrayList Example
 
