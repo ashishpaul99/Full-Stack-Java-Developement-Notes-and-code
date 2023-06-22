@@ -4,12 +4,12 @@
 //    Classes            by using for-loop      by using for each-loop        by using Iterator     by using ListIterator         by using desendingIterator      by using Enumeration
 
 //1. ArrayList                  yes                     yes                         yes                  yes                                 No                             No 
-//2. LinkedList                 yes                     yes 						yes                  yes                                 yes 		                    No						  
+//2. LinkedList                 yes                     yes 		            yes                  yes                                 yes 		                    No						  
 //3. Array Deque                no                      yes                         yes                   No                                 yes	                        No			
-//3. Prirority Queue            no                      yes							yes                   No                                 No				                No					  
-//5. TreeSet                    no                      yes							yes                   No                                 yes		                    No						  
-//6. HashSet                    no                      yes							yes                   No                                 No			                    No						  
-//7. LinkedHashSet              no                      yes							yes                   No                                 No			                    No						  
+//3. Prirority Queue            no                      yes			    yes                   No                                 No				                No					  
+//5. TreeSet                    no                      yes			    yes                   No                                 yes		                    No						  
+//6. HashSet                    no                      yes			    yes                   No                                 No			                    No						  
+//7. LinkedHashSet              no                      yes			    yes                   No                                 No			                    No						  
                                                                        
 //yes-> Allowed 
 //No ->Not Allowed
