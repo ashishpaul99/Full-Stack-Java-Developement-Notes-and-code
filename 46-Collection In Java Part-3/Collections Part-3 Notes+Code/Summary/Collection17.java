@@ -24,11 +24,11 @@
 //2. Java Collection Framework Hierarchy
 //                         Iterable
 //                            |
-//							  |
-//						Collection
+//			      |
+//			Collection
 //    ________________________|_____________________________
-//   |                        |                    			|
-// List(Interface)        Queue(Interface)    			Set(Interface)
+//   |                        |                    	    |
+// List(Interface)        Queue(Interface)    		Set(Interface)
 //   |                       |      |                      |    |
 //   |                       |    PriorityQueue(class)     |    |--HashSet(class)
 //   |-ArrayList(class)      |                             |    |
