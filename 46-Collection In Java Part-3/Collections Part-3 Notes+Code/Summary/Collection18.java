@@ -2,14 +2,14 @@
 
 //Java Collections Summary
 //Classes               Internal Data Structure    Preserve the oreder        Permit null values      Duplicates
-//													 of insertion                are allowed
-//1. ArrayList              Dynamic Theory               yes                         yes                  yes                                                     
-//2. LinkedList             Double LinkedList            yes 						 yes                  yes                                 								  
+//						    of insertion                are allowed
+//1. ArrayList              Dynamic Theory               yes                        yes                  yes                                                     
+//2. LinkedList             Double LinkedList            yes 			    yes                  yes                                 								  
 //3. Array Deque            Double Ended Queue           yes                         No                   yes                                 				
-//3. Prirority Queue        Min-heap                     No							 No                   yes                                 									  
-//5. TreeSet                Binary Search Tree           No							 No                   No                                 								  
-//6. HashSet                HashTable(Hashing)           No							 yes                  No                                 									  
-//7. LinkedHashSet          HashTable                    yes					     yes                  No                                 		
+//3. Prirority Queue        Min-heap                     No			     No                   yes                                 									  
+//5. TreeSet                Binary Search Tree           No			     No                    No                                 								  
+//6. HashSet                HashTable(Hashing)           No			     yes                   No                                 									  
+//7. LinkedHashSet          HashTable                    yes			     yes                  No                                 		
 
 
 
