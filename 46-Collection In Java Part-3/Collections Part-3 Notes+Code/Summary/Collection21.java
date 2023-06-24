@@ -1,6 +1,5 @@
 
-//Example-3: sorting complex data using sort()  method in 
-//Colections class.
+//Example-3: sorting complex data using sort()  method in Colections class.
 //->it gives exception at runtime.
 //->Application getting exception at runtime is bad.
 
