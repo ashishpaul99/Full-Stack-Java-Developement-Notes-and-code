@@ -32,7 +32,7 @@
 //->Collection.sort() works when data/objects in the collection
 //  are simple.
 
-//->Difference between Collection and Collections.
+//=>Difference between Collection and Collections.
 //i. Collection
 //->Collection is an interface and framework.
 //->Collection is heierarchy.
