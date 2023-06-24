@@ -91,7 +91,7 @@
 //	[10, 20, 30, 40, 50]
 //	[50, 30, 20, 10, 40]
 
-//4. min() method
+//4. max() and min() method
 //import java.util.*;
 //public class Collection23 {
 //
