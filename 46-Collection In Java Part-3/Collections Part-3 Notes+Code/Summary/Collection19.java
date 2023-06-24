@@ -14,9 +14,8 @@
 
 //=>Why Iterator is preferred instead of for loop?
 //->If we attempt concurrent modification then program will not 
-//  stop and it will keep on running. that's the reason we go with
-//  the loops rather we go with Iterator for accessing the data/objects
-//  in the collection.
+//  stop and it will keep on running. that's the reason we go we 
+//   go with Iterator for accessing the data/objects in the collection.
 
 //Example-1:Using for-loop for accessing the data/objects in the
 //          collection and attempting concurrent or structural modification
