@@ -26,7 +26,7 @@ public class Collection16 {
 	
 	Enumeration em=v.elements();
 	while(em.hasMoreElements()) {
-		System.out.println(em.nextElement());
+		System.out.print(em.nextElement()+" "); //output: 10 20 30 40 
 	}
 	
 	
