@@ -7,6 +7,7 @@
 //->it gives the result in the form of ascending sorted order.
 
 //->eg: 100 50 150 25 75 125 175
+// output: [25, 50, 75, 100, 125, 150, 175]
 //->In case of binary tree set the second data is directly compared 
 //  with the first data. 
 //->if second data is less than first data it takes left side of first data.
